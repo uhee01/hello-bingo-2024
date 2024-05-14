@@ -32,10 +32,10 @@
 ## 📸 스크린샷
 
 ### 🌐 메인 화면
-![Main Screen](./hello-bingo-new/public/images/git-main.png)
+![Main Screen](./hello-bingo-client/public/images/git-main.png)
 
 ### 🌦️ 상세 날씨 정보 모달
-![Weather Modal](./hello-bingo-new/public/images/git-game.png)
+![Weather Modal](./hello-bingo-client/public/images/git-game.png)
 
 ## 🛠️ 개발 과정
 
